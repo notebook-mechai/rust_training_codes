@@ -16,4 +16,7 @@ Installation check:
 > cargo --version
 > rustup --version
 
+Update rust:
+> rustup update
+
 

@@ -3,3 +3,16 @@ Create new project:
 > cargo new hello_rust
 > cd hello_rust
 > cargo run
+
+
+
+Other basic commands:
+
+Compile you'r codes:
+> cargo build
+
+run project:
+> cargo run
+
+test project:
+> cargo test
